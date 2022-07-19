@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874888596127",
+    "project_id": "airplane-4c4ed",
+    "storage_bucket": "airplane-4c4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874888596127:android:4ef3cf72fcdd4582a7b0aa",
+        "android_client_info": {
+          "package_name": "com.aytech.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874888596127-1j6ng177h4i11gtne8rc8tgmj5qc6bnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-7ZLDLNkMz8x_qd9M2C3KGwsyQcbolqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874888596127-1j6ng177h4i11gtne8rc8tgmj5qc6bnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
